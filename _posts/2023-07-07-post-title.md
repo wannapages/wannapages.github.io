@@ -1,5 +1,5 @@
 ---
-title: 글제목
+title: 글 제목
 category: test
 ---
 글 내용이 여기 옵니다.
