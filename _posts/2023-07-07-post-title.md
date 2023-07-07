@@ -1,7 +1,6 @@
 ---
-layout: post
 title: 글 제목
-category: 카테고리명
+categories: 카테고리명
 ---
 글 내용이 여기 옵니다.
 
