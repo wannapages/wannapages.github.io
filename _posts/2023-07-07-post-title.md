@@ -1,6 +1,6 @@
 ---
 title: 글제목
-categories: 카테고리명
+category: test
 ---
 글 내용이 여기 옵니다.
 
